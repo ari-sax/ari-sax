@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aryan Saxena
+# Hola! I'm Aryan Saxena.
 
 ### Computer Science Grad at The George Washington University
 
