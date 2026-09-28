@@ -1,21 +1,24 @@
 # Hola! I'm Aryan Saxena.
 
-### Computer Science Grad at The George Washington University
+MS in Computer Science at The George Washington University (May 2027).
+Previously BTech in CSE at VIT.
 
-- 🔭 I'm currently working on **a full stack AWS Cloud Application.**
+🔭 Currently building **Get Real** — a personal-finance coaching app
+   (Flask + React Native, Plaid, and an LLM-powered coach) with a live
+   transaction sync and plan-adaptation engine.
 
-- 🌱 I'm currently learning **AWS.**
+🛠️ Python · JavaScript · React Native · TypeScript · Flask · AWS · SQL · R
 
-- 👯 I'm looking to collaborate on **open source projects.**
+💼 Past: Summer Technology Intern at Vestwell · Data Science & ML Intern at Iterative Research
+   Tech (Dubai) · Software Analyst Intern at Capgemini
 
-- 🤝 I'm looking for help with **navigating internships in the USA.**
+👯 Open to collaborating on open source, and to **new grad SWE roles
+   for 2027**.
 
-- 💬 Ask me about **my experiences and projects.**
+📫 aryansaxenafd@gmail.com
 
-- 📫 How to reach me **aryansaxenafd@gmail.com.**
-
-- ⚡ Fun fact **Huge bingewatcher.**
-
+⚡ Fun fact: I watch a *lot* of movies and shows.
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ari-sax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ari-sax" height="30" width="40" /></a>
